@@ -86,7 +86,7 @@ SECRET_KEY=your-secret-key
 ## [Students](./screenshots/students.png)
 ![Login](https://via.placeholder.com/400x300/64748b/ffffff?text=Login)
 
-**Live Demo:** [https://Manojkrishna27.github.io/Student-Management](https://yourusername.github.io/student-management-system)
+**Live Demo:** [https://Manojkrishna27.github.io/Student-Management](https://Manojkrishna27.github.io/Student-Management)
 
 ## 🚀 Deployment
 **Frontend (GitHub Pages):**
