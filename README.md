@@ -105,4 +105,4 @@ npm run deploy
 - Charts library
 - Testing (Jest/Pytest)
 
-**Author:** [Your Name](https://github.com/yourusername) | your.email@example.com
+**Author:** [Manojkrishna M](https://github.com/Manojkrishna27) | manojkrishna2725@gmail.com
