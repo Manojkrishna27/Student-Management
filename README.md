@@ -2,7 +2,9 @@
 
 **Full-stack web app for admin student record management with authentication, dashboard, and CRUD operations.**
 
-![React](https://img.shields.io/badge/Frontend-React-blue)\n![Flask](https://img.shields.io/badge/Backend-Flask-black)\n![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Flask](https://img.shields.io/badge/Backend-Flask-black)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 
 ## ✨ Features
 - 🔐 JWT-based admin authentication
