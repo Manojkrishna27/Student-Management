@@ -2,7 +2,7 @@
 
 **Full-stack web app for admin student record management with authentication, dashboard, and CRUD operations.**
 
-![React](https://img.shields.io/badge/Frontend-React-blue)
+![React](https://img.shields.io/badge/Frontend-React-blue)/n
 ![Flask](https://img.shields.io/badge/Backend-Flask-black)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 
@@ -81,7 +81,9 @@ SECRET_KEY=your-secret-key
 | PUT | `/api/students/:id` | Update |
 | DELETE | `/api/students/:id` | Delete |
 
-## 📸 Screenshots\n\n![Dashboard](./screenshots/dashboard.png)\n![Students](./screenshots/students.png)
+## 📸 DASHBOARD![Dashboard](./screenshots/dashboard.png)
+
+## Students[Students](./screenshots/students.png)
 ![Login](https://via.placeholder.com/400x300/64748b/ffffff?text=Login)
 
 **Live Demo:** [https://yourusername.github.io/student-management-system](https://yourusername.github.io/student-management-system)
