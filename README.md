@@ -2,7 +2,7 @@
 
 **Full-stack web app for admin student record management with authentication, dashboard, and CRUD operations.**
 
-![React](https://img.shields.io/badge/Frontend-React-blue)/n
+![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Flask](https://img.shields.io/badge/Backend-Flask-black)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 
