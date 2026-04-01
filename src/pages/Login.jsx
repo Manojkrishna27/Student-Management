@@ -143,9 +143,7 @@ const Login = () => {
           </form>
 
           <div className="text-center">
-            <p className="text-sm text-white/70">
-              Demo: admin@example.com / password123
-            </p>
+            
           </div>
         </div>
       </div>
