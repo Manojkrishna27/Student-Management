@@ -83,7 +83,7 @@ SECRET_KEY=your-secret-key
 
 ## 📸 DASHBOARD![Dashboard](./screenshots/dashboard.png)
 
-## [Students](./screenshots/students.png)
+## ![Students](./screenshots/students.png)
 ![Login](https://via.placeholder.com/400x300/64748b/ffffff?text=Login)
 
 **Live Demo:** [https://github.com/Manojkrishna27/Student-Management](https://github.com/Manojkrishna27/Student-Management)
